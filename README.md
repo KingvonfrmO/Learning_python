@@ -1,1 +1,1 @@
-My journy learning python
+My journey learning python
