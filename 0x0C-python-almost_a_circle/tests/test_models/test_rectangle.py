@@ -43,6 +43,32 @@ class TestRectangle(unittest.TestCase):
         with self.assertRaises(ValueError):
             Rectangle(5, 10, 1, -2)
 
+    def test_area(self):
+        r3 = Rectangle(3, 2)
+        self.assertEqual(r3.area(), 6)
+
+    def test_string_rep(self):
+        r4 = Rectangle(4, 6, 2, 1, 12)
+        self.assertEqual(str(r4), "[Rectangle] (12) 2/1 - 4/6")
+
+    def test_update(self):
+        r5 = Rectangle(10, 10, 10, 10, 1)
+        r5.update(2, 20, 30, 40, 50)
+        self.assertEqual(r5.id, 2)
+        self.assertEqual(r5.width, 20)
+        self.assertEqual(r5.height, 30)
+        self.assertEqual(r5.x, 40)
+        self.assertEqual(r5.y, 50)
+
+    def test_new_update(self):
+        r6 = Rectangle(10, 10, 10, 10, 10)
+        r6.update(id=200, width=500)
+        self.assertEqual(r6.id, 200)
+        self.assertEqual(r6.width, 500)
+        self.assertEqual(r6.height, 10)
+        self.assertEqual(r6.x, 10)
+        self.assertEqual(r6.y, 10)
+
 
 if __name__ == "__main__":
     unittest.main()
