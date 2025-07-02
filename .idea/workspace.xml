@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d018a45-16c2-460b-848b-2b9022c79b73" name="Changes" comment="ASSIGNMENT 12">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Learning_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQL File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KingvonfrmO&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KingvonfrmO/Learning_python.git&quot;,
+    &quot;accountId&quot;: &quot;b29717f5-2b95-4b34-ad8c-bae82f72b210&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oz5byiqYyZh3dOOVUJcx6hYaEQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python. 0-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0-add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0-positive_or_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0-read_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0-select_states.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-filter_states.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-last_digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-search_replace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10-model_state_my_get.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10-square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.100-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.100-print_tebahpla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.100-relationship_states_cities.executor&quot;: &quot;Run&quot;,
+    &quot;Python.100-safe_print_integer_err.executor&quot;: &quot;Run&quot;,
+    &quot;Python.101-easy_print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.101-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.101-nqueens.executor&quot;: &quot;Run&quot;,
+    &quot;Python.101-relationship_states_cities_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.101-remove_char_at.executor&quot;: &quot;Run&quot;,
+    &quot;Python.102-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.102-relationship_cities_states_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11-model_state_insert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11-square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12-fizzbuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12-model_state_update_id_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12-switch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13-model_state_delete_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14-model_city_fetch_by_state.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-args.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.2-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-my_filter_states.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-print_alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-infinite_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-my_safe_filter_states.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-print_alphabt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-print_reversed_list_integer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-to_json_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-cities_by_state.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-hidden_discovery.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-list_division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-print_hexa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-filter_cities.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-print_comb2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-save_to_json_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-variable_load.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-model_state.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-print_comb3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-print_sorted_dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-add_item.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-base_geometry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-islower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-model_state_fetch_all.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8-main_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8-model_state_fetch_first.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8-uppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-model_state_filter_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-multiply_by_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Run.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.console.executor&quot;: &quot;Run&quot;,
+    &quot;Python.current file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/PycharmProjects/Learning_python/0x0C-python-object_relational_mapping/102-relationship_cities_states_list.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="102-relationship_cities_states_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x0C-python-object_relational_mapping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x0C-python-object_relational_mapping/102-relationship_cities_states_list.py" />
+      <option name="PARAMETERS" value="root Nd%40mbir1 hbtn_0e_101_usa" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.102-relationship_cities_states_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d018a45-16c2-460b-848b-2b9022c79b73" name="Changes" comment="" />
+      <created>1731859641441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731859641441</updated>
+      <workItem from="1731859643830" duration="2106000" />
+      <workItem from="1731864019557" duration="5018000" />
+      <workItem from="1731919423556" duration="3614000" />
+      <workItem from="1734329873600" duration="22174000" />
+      <workItem from="1734508004479" duration="52943000" />
+      <workItem from="1734798212909" duration="28294000" />
+      <workItem from="1736069361922" duration="23000" />
+      <workItem from="1736089991488" duration="704000" />
+      <workItem from="1736162726673" duration="592000" />
+      <workItem from="1736272845038" duration="108000" />
+      <workItem from="1737794805413" duration="628000" />
+      <workItem from="1737871411390" duration="5331000" />
+      <workItem from="1745671384490" duration="8000" />
+      <workItem from="1745671408407" duration="4000" />
+      <workItem from="1746041630690" duration="666000" />
+      <workItem from="1746086910637" duration="618000" />
+      <workItem from="1746206197042" duration="73000" />
+      <workItem from="1746206782844" duration="66000" />
+      <workItem from="1746288222352" duration="3146000" />
+      <workItem from="1746371649274" duration="125000" />
+      <workItem from="1746372358019" duration="4570000" />
+      <workItem from="1746519083467" duration="35352000" />
+      <workItem from="1751438621005" duration="678000" />
+    </task>
+    <task id="LOCAL-00001" summary="ASSIGNMENT 1">
+      <option name="closed" value="true" />
+      <created>1731921100732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731921100732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ASSIGNMENT 2">
+      <option name="closed" value="true" />
+      <created>1734334303336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734334303336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ASSIGNMENT 3">
+      <option name="closed" value="true" />
+      <created>1734363273606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734363273606</updated>
+    </task>
+    <task id="LOCAL-00004" summary="README file">
+      <option name="closed" value="true" />
+      <created>1734363483826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734363483826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ASSIGNMENT 4">
+      <option name="closed" value="true" />
+      <created>1734509969237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734509969237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ASSIGNMENT 5">
+      <option name="closed" value="true" />
+      <created>1734531967751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734531967751</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ASSIGNMENT 6">
+      <option name="closed" value="true" />
+      <created>1734613517353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734613517353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ASSIGNMENT 7">
+      <option name="closed" value="true" />
+      <created>1734625474924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734625474924</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ASSIGNMENT 8">
+      <option name="closed" value="true" />
+      <created>1734701522120</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734701522120</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ASSIGNMENT 9">
+      <option name="closed" value="true" />
+      <created>1734764760554</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734764760554</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ASSIGNMENT 10">
+      <option name="closed" value="true" />
+      <created>1734972441024</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734972441024</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ASSIGNMENT 11">
+      <option name="closed" value="true" />
+      <created>1735061814617</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735061814619</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ASSIGNMENT 12">
+      <option name="closed" value="true" />
+      <created>1746723906448</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746723906448</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ASSIGNMENT 1" />
+    <MESSAGE value="ASSIGNMENT 2" />
+    <MESSAGE value="ASSIGNMENT 3" />
+    <MESSAGE value="README file" />
+    <MESSAGE value="ASSIGNMENT 4" />
+    <MESSAGE value="ASSIGNMENT 5" />
+    <MESSAGE value="ASSIGNMENT 6" />
+    <MESSAGE value="ASSIGNMENT 7" />
+    <MESSAGE value="ASSIGNMENT 8" />
+    <MESSAGE value="ASSIGNMENT 9" />
+    <MESSAGE value="ASSIGNMENT 10" />
+    <MESSAGE value="ASSIGNMENT 11" />
+    <MESSAGE value="ASSIGNMENT 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="ASSIGNMENT 12" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0x07-python-more_classes/3-rectangle.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_python$0_select_states.coverage" NAME="0-select_states Coverage Results" MODIFIED="1746375354661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_python$100_safe_print_integer_err.coverage" NAME="100-safe_print_integer_err Coverage Results" MODIFIED="1734518973058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05-python-exceptions" />
+    <SUITE FILE_PATH="coverage/Learning_python$3_print_alphabt.coverage" NAME="3-print_alphabt Coverage Results" MODIFIED="1731864718179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$8_main_2.coverage" NAME="8-main_2 Coverage Results" MODIFIED="1734782423801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0A-python-input_output" />
+    <SUITE FILE_PATH="coverage/Learning_python$6_print_comb3.coverage" NAME="6-print_comb3 Coverage Results" MODIFIED="1731866054526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$12_fizzbuzz.coverage" NAME="12-fizzbuzz Coverage Results" MODIFIED="1731919972237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$100_print_tebahpla.coverage" NAME="100-print_tebahpla Coverage Results" MODIFIED="1731920480164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$3_my_safe_filter_states.coverage" NAME="6-model_state Coverage Results" MODIFIED="1746601745835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C-python-object_relational_mapping" />
+    <SUITE FILE_PATH="coverage/Learning_python$15_main.coverage" NAME="15-main Coverage Results" MODIFIED="1735054669452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$101_easy_print.coverage" NAME="101-easy_print Coverage Results" MODIFIED="1734333335652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02-python-import_modules" />
+    <SUITE FILE_PATH="coverage/Learning_python$9_main.coverage" NAME="9-main Coverage Results" MODIFIED="1735026174655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$0_main.coverage" NAME="0-main Coverage Results" MODIFIED="1734975973170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$current_file.coverage" NAME="current file Coverage Results" MODIFIED="1746376150780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\Lenovo\PycharmProjects\Learning_python\0x0C-python-object_relational_mapping" />
+    <SUITE FILE_PATH="coverage/Learning_python$4_main.coverage" NAME="4-main Coverage Results" MODIFIED="1734978673032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$5_print_comb2.coverage" NAME="5-print_comb2 Coverage Results" MODIFIED="1731865742935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$101_remove_char_at.coverage" NAME="101-remove_char_at Coverage Results" MODIFIED="1731920744552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$10_main.coverage" NAME="10-main Coverage Results" MODIFIED="1735026080210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$100_main.coverage" NAME="100-main Coverage Results" MODIFIED="1735061056509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$4_list_division.coverage" NAME="4-list_division Coverage Results" MODIFIED="1734518165340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x05-python-exceptions" />
+    <SUITE FILE_PATH="coverage/Learning_python$7_rectangle.coverage" NAME="7-rectangle Coverage Results" MODIFIED="1734623971084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x07-python-more_classes" />
+    <SUITE FILE_PATH="coverage/Learning_python$19_main.coverage" NAME="19-main Coverage Results" MODIFIED="1734626424713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x08-python-everything_is_object" />
+    <SUITE FILE_PATH="coverage/Learning_python$9_rectangle.coverage" NAME="9-rectangle Coverage Results" MODIFIED="1734713797790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x09-python-inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_python$8_main.coverage" NAME="8-main Coverage Results" MODIFIED="1735024542891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$12_switch.coverage" NAME="12-switch Coverage Results" MODIFIED="1734363077200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03-python-data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_python$2_args.coverage" NAME="2-args Coverage Results" MODIFIED="1734331640369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02-python-import_modules" />
+    <SUITE FILE_PATH="coverage/Learning_python$16_main.coverage" NAME="16-main Coverage Results" MODIFIED="1735054950559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$6_model_state.coverage" NAME="12-model_state_update_id_2 Coverage Results" MODIFIED="1746640488998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\Lenovo\PycharmProjects\Learning_python\0x0C-python-object_relational_mapping" />
+    <SUITE FILE_PATH="coverage/Learning_python$0_positive_or_negative.coverage" NAME="0-positive_or_negative Coverage Results" MODIFIED="1731862857463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$3_infinite_add.coverage" NAME="3-infinite_add Coverage Results" MODIFIED="1734331974260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02-python-import_modules" />
+    <SUITE FILE_PATH="coverage/Learning_python$3_print_reversed_list_integer.coverage" NAME="3-print_reversed_list_integer Coverage Results" MODIFIED="1734343412179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x03-python-data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_python$11_main.coverage" NAME="11-main Coverage Results" MODIFIED="1735026309275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$console.coverage" NAME="console Coverage Results" MODIFIED="1737879448290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_python$7_islower.coverage" NAME="7-islower Coverage Results" MODIFIED="1731866135088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$1_filter_states.coverage" NAME="3-my_safe_filter_states Coverage Results" MODIFIED="1746522618305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\Lenovo\PycharmProjects\Learning_python\0x0C-python-object_relational_mapping" />
+    <SUITE FILE_PATH="coverage/Learning_python$3_main.coverage" NAME="3-main Coverage Results" MODIFIED="1734978447562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$1_search_replace.coverage" NAME="1-search_replace Coverage Results" MODIFIED="1734367961078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04-python-more_data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_python$5_variable_load.coverage" NAME="5-variable_load Coverage Results" MODIFIED="1734332483022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02-python-import_modules" />
+    <SUITE FILE_PATH="coverage/Learning_python$101_nqueens.coverage" NAME="101-nqueens Coverage Results" MODIFIED="1734625403448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x07-python-more_classes" />
+    <SUITE FILE_PATH="coverage/Learning_python$rectangle.coverage" NAME="rectangle Coverage Results" MODIFIED="1734977098189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/models" />
+    <SUITE FILE_PATH="coverage/Learning_python$7_main.coverage" NAME="7-main Coverage Results" MODIFIED="1735024125971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$6_square.coverage" NAME="6-square Coverage Results" MODIFIED="1734548347532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x06-python-classes" />
+    <SUITE FILE_PATH="coverage/Learning_python$11_square.coverage" NAME="11-square Coverage Results" MODIFIED="1734761967085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x09-python-inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_python$2_main.coverage" NAME="2-main Coverage Results" MODIFIED="1734977901092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$0_add.coverage" NAME="0-add Coverage Results" MODIFIED="1731926220148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02-python-import_modules" />
+    <SUITE FILE_PATH="coverage/Learning_python$17_main.coverage" NAME="17-main Coverage Results" MODIFIED="1735055958535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$square.coverage" NAME="square Coverage Results" MODIFIED="1735025690637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/models" />
+    <SUITE FILE_PATH="coverage/Learning_python$102_main.coverage" NAME="102-main Coverage Results" MODIFIED="1734509856071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04-python-more_data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_python$12_main.coverage" NAME="12-main Coverage Results" MODIFIED="1735039303686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$6_print_sorted_dictionary.coverage" NAME="6-print_sorted_dictionary Coverage Results" MODIFIED="1734369924560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04-python-more_data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_python$7_add_item.coverage" NAME="7-add_item Coverage Results" MODIFIED="1734781392082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0A-python-input_output" />
+    <SUITE FILE_PATH="coverage/Learning_python$1_main.coverage" NAME="1-main Coverage Results" MODIFIED="1734977103295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$1_last_digit.coverage" NAME="1-last_digit Coverage Results" MODIFIED="1731863104982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$4_print_hexa.coverage" NAME="4-print_hexa Coverage Results" MODIFIED="1731865346158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$6_main.coverage" NAME="6-main Coverage Results" MODIFIED="1734980940977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$14_main.coverage" NAME="14-main Coverage Results" MODIFIED="1735039807291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$0_read_file.coverage" NAME="0-read_file Coverage Results" MODIFIED="1734766171394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0A-python-input_output" />
+    <SUITE FILE_PATH="coverage/Learning_python$7_base_geometry.coverage" NAME="7-base_geometry Coverage Results" MODIFIED="1734712280552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x09-python-inheritance" />
+    <SUITE FILE_PATH="coverage/Learning_python$_0_main.coverage" NAME=" 0-main Coverage Results" MODIFIED="1734614178193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x07-python-more_classes" />
+    <SUITE FILE_PATH="coverage/Learning_python$8_uppercase.coverage" NAME="8-uppercase Coverage Results" MODIFIED="1731867252839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$13_model_state_delete_a.coverage" NAME="102-relationship_cities_states_list Coverage Results" MODIFIED="1746723827141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0C-python-object_relational_mapping" />
+    <SUITE FILE_PATH="coverage/Learning_python$101_main.coverage" NAME="101-main Coverage Results" MODIFIED="1735061719689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$3_to_json_string.coverage" NAME="3-to_json_string Coverage Results" MODIFIED="1734767083637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0A-python-input_output" />
+    <SUITE FILE_PATH="coverage/Learning_python$5_save_to_json_file.coverage" NAME="5-save_to_json_file Coverage Results" MODIFIED="1734772932402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0A-python-input_output" />
+    <SUITE FILE_PATH="coverage/Learning_python$18_main.coverage" NAME="18-main Coverage Results" MODIFIED="1735059029984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$1_calculation.coverage" NAME="1-calculation Coverage Results" MODIFIED="1734330670624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02-python-import_modules" />
+    <SUITE FILE_PATH="coverage/Learning_python$2_print_alphabet.coverage" NAME="2-print_alphabet Coverage Results" MODIFIED="1731864340465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <SUITE FILE_PATH="coverage/Learning_python$5_main.coverage" NAME="5-main Coverage Results" MODIFIED="1734979026643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$13_main.coverage" NAME="13-main Coverage Results" MODIFIED="1735039675746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x0B-python-almost_a_circle/tests" />
+    <SUITE FILE_PATH="coverage/Learning_python$9_multiply_by_2.coverage" NAME="9-multiply_by_2 Coverage Results" MODIFIED="1734370722914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x04-python-more_data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_python$4_hidden_discovery.coverage" NAME="4-hidden_discovery Coverage Results" MODIFIED="1734332470633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x02-python-import_modules" />
+    <SUITE FILE_PATH="coverage/Learning_python$10_square.coverage" NAME="10-square Coverage Results" MODIFIED="1734713219144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0x09-python-inheritance" />
+  </component>
+</project>
