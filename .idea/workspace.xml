@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d018a45-16c2-460b-848b-2b9022c79b73" name="Changes" comment="ASSIGNMENT 12">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="3d018a45-16c2-460b-848b-2b9022c79b73" name="Changes" comment="Add .idea configuration files to version control for project setup">
       <change afterPath="$PROJECT_DIR$/.idea/Learning_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +237,7 @@
       <workItem from="1746371649274" duration="125000" />
       <workItem from="1746372358019" duration="4570000" />
       <workItem from="1746519083467" duration="35352000" />
-      <workItem from="1751438621005" duration="678000" />
+      <workItem from="1751438621005" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="ASSIGNMENT 1">
       <option name="closed" value="true" />
